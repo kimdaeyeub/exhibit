@@ -20,7 +20,6 @@ const Nav = () => {
   };
 
   useEffect(() => {
-    console.log("hello");
     if (localStorage.theme === "dark") {
       document.documentElement.classList.add("dark");
       setDarkMode(true);

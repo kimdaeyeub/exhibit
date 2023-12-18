@@ -19,6 +19,7 @@ const Nav = () => {
     }
   };
 
+  const hello = "hello";
   useEffect(() => {
     if (localStorage.theme === "dark") {
       document.documentElement.classList.add("dark");
@@ -30,7 +31,6 @@ const Nav = () => {
 
   return (
     <div className="w-full px-44 py-6 flex justify-between items-center dark:bg-gray-950">
-      {/*로고*/}
       <h1 className="text-4xl font-bold bg-gradient-to-r from-red-700 to-blue-600 bg-clip-text text-transparent">
         Website
       </h1>

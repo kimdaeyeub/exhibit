@@ -1,0 +1,86 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"b20e9314-e048-429d-b461-f55c790afc51\" name=\"변경\" comment=\"update\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ChangesViewManager\">\n    <option name=\"groupingKeys\">\n      <option value=\"directory\" />\n    </option>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"TypeScript JSX File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;kimdaeyeub&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"4e9c2f9d-acfa-453f-b1c4-1f4ca232b174\" />\n        <option name=\"url\" value=\"https://github.com/kimdaeyeub/exhibit\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"DEPENDENCY_CHECKER_PROBLEMS_TAB\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 1\n}</component>\n  <component name=\"ProjectId\" id=\"2ZisbhHalNXmgb0fpCdZKZtWN8C\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"autoscrollToSource\" value=\"true\" />\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"openDirectoriesWithSingleClick\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;npm.dev.executor&quot;: &quot;Run&quot;,\n    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/kimdaeyeub/Documents/project/web-display/node_modules/prettier&quot;,\n    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.일반&quot;,\n    &quot;ts.external.directory.path&quot;: &quot;/Users/kimdaeyeub/Documents/project/web-display/node_modules/typescript/lib&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  },\n  &quot;keyToStringList&quot;: {\n    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [\n      &quot;directory&quot;,\n      &quot;repository&quot;\n    ]\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"dev\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\n      <command value=\"run\" />\n      <scripts>\n        <script value=\"dev\" />\n      </scripts>\n      <node-interpreter value=\"project\" />\n      <envs />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"npm.dev\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"애플리케이션 수준\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"디폴트 작업\">\n      <changelist id=\"b20e9314-e048-429d-b461-f55c790afc51\" name=\"변경\" comment=\"\" />\n      <created>1702916307109</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1702916307109</updated>\n      <workItem from=\"1702916308168\" duration=\"357000\" />\n      <workItem from=\"1702919580125\" duration=\"4900000\" />\n      <workItem from=\"1702925403296\" duration=\"77000\" />\n      <workItem from=\"1702925631424\" duration=\"638000\" />\n      <workItem from=\"1702926282722\" duration=\"73000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"update\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1702926320089</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1702926320089</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"RECENT_FILTERS\">\n      <map>\n        <entry key=\"Paths\">\n          <value>\n            <list>\n              <RecentGroup>\n                <option name=\"FILTER_VALUES\">\n                  <option value=\"dir:/Users/kimdaeyeub/Documents/project/web-display\" />\n                </option>\n              </RecentGroup>\n            </list>\n          </value>\n        </entry>\n        <entry key=\"User\">\n          <value>\n            <list>\n              <RecentGroup>\n                <option name=\"FILTER_VALUES\">\n                  <option value=\"*\" />\n                </option>\n              </RecentGroup>\n            </list>\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"master\" />\n                      </list>\n                    </value>\n                  </entry>\n                  <entry key=\"date\">\n                    <value>\n                      <list>\n                        <option value=\"1702321407113\" />\n                        <option value=\"\" />\n                      </list>\n                    </value>\n                  </entry>\n                  <entry key=\"user\">\n                    <value>\n                      <list>\n                        <option value=\"*\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT\" value=\"false\" />\n    <option name=\"CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT\" value=\"true\" />\n    <MESSAGE value=\"update\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"update\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c139321d7942e6fdd2338768058d55a1c0dd4840)
++++ b/.idea/workspace.xml	(date 1702927207445)
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="b20e9314-e048-429d-b461-f55c790afc51" name="변경" comment="update" />
++    <list default="true" id="b20e9314-e048-429d-b461-f55c790afc51" name="변경" comment="update">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/components/Nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Nav.tsx" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -24,6 +27,7 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="SIGN_OFF_COMMIT" value="true" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory">{
+   &quot;lastFilter&quot;: {
+@@ -75,7 +79,7 @@
+     &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/kimdaeyeub/Documents/project/web-display/node_modules/prettier&quot;,
+     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.일반&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+     &quot;ts.external.directory.path&quot;: &quot;/Users/kimdaeyeub/Documents/project/web-display/node_modules/typescript/lib&quot;,
+     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   },
+@@ -120,7 +124,10 @@
+       <workItem from="1702919580125" duration="4900000" />
+       <workItem from="1702925403296" duration="77000" />
+       <workItem from="1702925631424" duration="638000" />
+-      <workItem from="1702926282722" duration="73000" />
++      <workItem from="1702926282722" duration="347000" />
++      <workItem from="1702926642187" duration="255000" />
++      <workItem from="1702926909496" duration="17000" />
++      <workItem from="1702926957648" duration="1000" />
+     </task>
+     <task id="LOCAL-00001" summary="update">
+       <option name="closed" value="true" />
+@@ -130,7 +137,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1702926320089</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="update">
++      <option name="closed" value="true" />
++      <created>1702926559266</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1702926559266</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+Index: components/Nav.tsx
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\"use client\";\n\nimport { useEffect, useState } from \"react\";\nimport { Simulate } from \"react-dom/test-utils\";\nimport toggle = Simulate.toggle;\n\nconst Nav = () => {\n  const [darkMode, setDarkMode] = useState(false);\n\n  const toggleDarkMode = () => {\n    if (darkMode) {\n      document.documentElement.classList.remove(\"dark\");\n      localStorage.theme = \"light\";\n      setDarkMode(false);\n    } else {\n      document.documentElement.classList.add(\"dark\");\n      localStorage.theme = \"dark\";\n      setDarkMode(true);\n    }\n  };\n\n  useEffect(() => {\n    if (localStorage.theme === \"dark\") {\n      document.documentElement.classList.add(\"dark\");\n      setDarkMode(true);\n    } else {\n      setDarkMode(false);\n    }\n  }, []);\n\n  return (\n    <div className=\"w-full px-44 py-6 flex justify-between items-center dark:bg-gray-950\">\n      {/*로고*/}\n      <h1 className=\"text-4xl font-bold bg-gradient-to-r from-red-700 to-blue-600 bg-clip-text text-transparent\">\n        Website\n      </h1>\n      <div className=\"flex justify-center items-center space-x-8\">\n        <button className=\"font-medium text-xl px-4 py-2 border border-black rounded-md dark:text-white dark:border-white\">\n          Home\n        </button>\n        <button className=\"font-medium text-xl px-4 py-2  dark:text-white\">\n          Website\n        </button>\n        <button className=\"font-medium text-xl px-4 py-2  dark:text-white\">\n          Components\n        </button>\n        {darkMode ? (\n          // 해 이모티콘\n          <button\n            onClick={toggleDarkMode}\n            className=\"p-2 border border-white bg-gray-500 rounded-md text-yellow-400\"\n          >\n            <svg\n              width={22}\n              fill=\"none\"\n              stroke=\"currentColor\"\n              strokeWidth=\"3\"\n              viewBox=\"0 0 24 24\"\n              xmlns=\"http://www.w3.org/2000/svg\"\n              aria-hidden=\"true\"\n            >\n              <path\n                strokeLinecap=\"round\"\n                strokeLinejoin=\"round\"\n                d=\"M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z\"\n              ></path>\n            </svg>\n          </button>\n        ) : (\n          //달 이모티콘\n          <button\n            onClick={toggleDarkMode}\n            className=\"p-2 border border-gray-600 rounded-md text-yellow-400\"\n          >\n            <svg\n              width={22}\n              fill=\"none\"\n              stroke=\"currentColor\"\n              strokeWidth=\"1.5\"\n              viewBox=\"0 0 24 24\"\n              xmlns=\"http://www.w3.org/2000/svg\"\n              aria-hidden=\"true\"\n            >\n              <path\n                strokeLinecap=\"round\"\n                strokeLinejoin=\"round\"\n                d=\"M21.752 15.002A9.718 9.718 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998z\"\n              ></path>\n            </svg>\n          </button>\n        )}\n      </div>\n    </div>\n  );\n};\n\nexport default Nav;\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/components/Nav.tsx b/components/Nav.tsx
+--- a/components/Nav.tsx	(revision c139321d7942e6fdd2338768058d55a1c0dd4840)
++++ b/components/Nav.tsx	(date 1702926763885)
+@@ -19,6 +19,7 @@
+     }
+   };
+ 
++  //hkhkkhk
+   useEffect(() => {
+     if (localStorage.theme === "dark") {
+       document.documentElement.classList.add("dark");

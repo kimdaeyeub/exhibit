@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { Simulate } from "react-dom/test-utils";
 import toggle = Simulate.toggle;
+import Link from "next/link";
 
 const Nav = () => {
   const [darkMode, setDarkMode] = useState(false);
@@ -19,7 +20,6 @@ const Nav = () => {
     }
   };
 
-  const hello = "hello";
   useEffect(() => {
     if (localStorage.theme === "dark") {
       document.documentElement.classList.add("dark");
@@ -30,14 +30,13 @@ const Nav = () => {
   }, []);
 
   return (
-    <div className="w-full px-44 py-6 flex justify-between items-center dark:bg-gray-950">
-      <h1 className="text-4xl font-bold bg-gradient-to-r from-red-700 to-blue-600 bg-clip-text text-transparent">
-        Website
-      </h1>
+    <div className="w-full px-44 py-6 flex justify-between items-center">
+      <Link href="/">
+        <h1 className="text-4xl font-bold bg-gradient-to-r from-red-700 to-blue-600 bg-clip-text text-transparent">
+          Website
+        </h1>
+      </Link>
       <div className="flex justify-center items-center space-x-8">
-        <button className="font-medium text-xl px-4 py-2 border border-black rounded-md dark:text-white dark:border-white">
-          Home
-        </button>
         <button className="font-medium text-xl px-4 py-2  dark:text-white">
           Website
         </button>

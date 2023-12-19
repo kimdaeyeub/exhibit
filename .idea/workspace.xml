@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b20e9314-e048-429d-b461-f55c790afc51" name="변경" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Nav.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +92,7 @@
     "npm.dev.executor": "Run",
     "prettierjs.PrettierConfiguration.Package": "/Users/kimdaeyeub/Documents/project/web-display/node_modules/prettier",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.색 구성표 글꼴",
     "ts.external.directory.path": "/Users/kimdaeyeub/Documents/project/web-display/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   },
@@ -164,6 +161,7 @@
       <workItem from="1702929020483" duration="134000" />
       <workItem from="1702970008608" duration="11000" />
       <workItem from="1702990394909" duration="1547000" />
+      <workItem from="1703009955432" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />

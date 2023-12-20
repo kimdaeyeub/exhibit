@@ -37,17 +37,14 @@ const Nav = () => {
         </h1>
       </Link>
       <div className="flex justify-center items-center space-x-8">
-        <button className="font-medium text-xl px-4 py-2  dark:text-white">
-          Website
-        </button>
-        <button className="font-medium text-xl px-4 py-2  dark:text-white">
-          Components
+        <button className="font-medium text-xl px-4 py-2 rounded-lg bg-slate-800 text-white">
+          로그아웃
         </button>
         {darkMode ? (
           // 해 이모티콘
           <button
             onClick={toggleDarkMode}
-            className="p-2 border border-white bg-gray-500 rounded-md text-yellow-400"
+            className="p-2 border bg-white rounded-md text-yellow-400"
           >
             <svg
               width={22}
@@ -69,25 +66,25 @@ const Nav = () => {
           //달 이모티콘
           <button
             onClick={toggleDarkMode}
-            className="p-2 border border-gray-600 rounded-md text-yellow-400"
+            className="p-2 rounded-md bg-slate-800 text-yellow-400"
           >
             <svg
-              width={22}
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="1.5"
+              width={20}
+              data-slot="icon"
+              fill="currentColor"
               viewBox="0 0 24 24"
               xmlns="http://www.w3.org/2000/svg"
               aria-hidden="true"
             >
               <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                d="M21.752 15.002A9.718 9.718 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998z"
+                clipRule="evenodd"
+                fillRule="evenodd"
+                d="M9.528 1.718a.75.75 0 0 1 .162.819A8.97 8.97 0 0 0 9 6a9 9 0 0 0 9 9 8.97 8.97 0 0 0 3.463-.69.75.75 0 0 1 .981.98 10.503 10.503 0 0 1-9.694 6.46c-5.799 0-10.5-4.7-10.5-10.5 0-4.368 2.667-8.112 6.46-9.694a.75.75 0 0 1 .818.162Z"
               ></path>
             </svg>
           </button>
         )}
+        <div className="w-12 h-12 rounded-full bg-red-400" />
       </div>
     </div>
   );

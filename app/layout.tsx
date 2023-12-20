@@ -16,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="kr">
-      <body className="bg-white dark:bg-gray-900">
+      <body className="dark:bg-gray-900">
         <Nav />
         <section className="w-full h-full">{children}</section>
       </body>

@@ -1,0 +1,86 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"b20e9314-e048-429d-b461-f55c790afc51\" name=\"변경\" comment=\"update\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ChangesViewManager\">\n    <option name=\"groupingKeys\">\n      <option value=\"directory\" />\n    </option>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"TypeScript JSX File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"PUSH_TAGS\">\n      <GitPushTagMode>\n        <option name=\"argument\" value=\"--tags\" />\n        <option name=\"title\" value=\"All\" />\n      </GitPushTagMode>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"ROOT_SYNC\" value=\"SYNC\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;kimdaeyeub&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"4e9c2f9d-acfa-453f-b1c4-1f4ca232b174\" />\n        <option name=\"url\" value=\"https://github.com/kimdaeyeub/exhibit\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"HighlightingSettingsPerFile\">\n    <setting file=\"file://$PROJECT_DIR$/package.json\" root0=\"FORCE_HIGHLIGHTING\" />\n  </component>\n  <component name=\"JsBowerSettings\">\n    <bower-package value=\"\" />\n    <bower.json value=\"\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"DEPENDENCY_CHECKER_PROBLEMS_TAB\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 1\n}</component>\n  <component name=\"ProjectId\" id=\"2ZisbhHalNXmgb0fpCdZKZtWN8C\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n    <ConfirmationsSetting value=\"2\" id=\"Remove\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"autoscrollToSource\" value=\"true\" />\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"openDirectoriesWithSingleClick\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"develop\",\n    \"js.linters.configure.manually.selectedeslint\": \"true\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.standard\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.standard\": \"\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_interpreter_path\": \"node\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"npm.dev.executor\": \"Run\",\n    \"prettierjs.PrettierConfiguration.Package\": \"/Users/kimdaeyeub/Documents/project/web-display/node_modules/prettier\",\n    \"run.code.analysis.last.selected.profile\": \"pProject Default\",\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\n    \"ts.external.directory.path\": \"/Users/kimdaeyeub/Documents/project/web-display/node_modules/typescript/lib\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  },\n  \"keyToStringList\": {\n    \"GitStage.ChangesTree.GroupingKeys\": [\n      \"directory\",\n      \"repository\"\n    ]\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"RunAnythingCache\">\n    <myKeys>\n      <visibility group=\"Grunt\" flag=\"true\" />\n      <visibility group=\"Gulp\" flag=\"true\" />\n      <visibility group=\"HTTP 요청\" flag=\"true\" />\n      <visibility group=\"Node.js\" flag=\"true\" />\n      <visibility group=\"com.intellij.httpClient.http.request.run.HttpRequestRunAnythingProvider\" flag=\"true\" />\n      <visibility group=\"com.intellij.ide.actions.runAnything.RunAnythingRunConfigurationProvider\" flag=\"true\" />\n      <visibility group=\"com.intellij.ide.actions.runAnything.activity.RunAnythingRecentProjectProvider\" flag=\"true\" />\n      <visibility group=\"com.intellij.lang.javascript.buildTools.grunt.GruntRunAnythingProvider\" flag=\"true\" />\n      <visibility group=\"com.intellij.lang.javascript.buildTools.gulp.GulpRunAnythingProvider\" flag=\"true\" />\n      <visibility group=\"com.intellij.lang.javascript.buildTools.npm.NpmRunAnythingProvider.Npm\" flag=\"true\" />\n      <visibility group=\"com.intellij.lang.javascript.buildTools.npm.NpmRunAnythingProvider.Yarn\" flag=\"true\" />\n      <visibility group=\"com.jetbrains.nodejs.execution.NodeRunAnythingProvider\" flag=\"true\" />\n      <visibility group=\"npm\" flag=\"true\" />\n      <visibility group=\"yarn\" flag=\"true\" />\n      <visibility group=\"실행 구성\" flag=\"true\" />\n      <visibility group=\"최근 프로젝트\" flag=\"true\" />\n    </myKeys>\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"dev\" type=\"js.build_tools.npm\" focusToolWindowBeforeRun=\"true\" temporary=\"true\" nameIsGenerated=\"true\">\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\n      <command value=\"run\" />\n      <scripts>\n        <script value=\"dev\" />\n      </scripts>\n      <node-interpreter value=\"project\" />\n      <envs />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"npm.dev\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"애플리케이션 수준\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"디폴트 작업\">\n      <changelist id=\"b20e9314-e048-429d-b461-f55c790afc51\" name=\"변경\" comment=\"\" />\n      <created>1702916307109</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1702916307109</updated>\n      <workItem from=\"1702916308168\" duration=\"357000\" />\n      <workItem from=\"1702919580125\" duration=\"4900000\" />\n      <workItem from=\"1702925403296\" duration=\"77000\" />\n      <workItem from=\"1702925631424\" duration=\"638000\" />\n      <workItem from=\"1702926282722\" duration=\"73000\" />\n      <workItem from=\"1702929020483\" duration=\"134000\" />\n      <workItem from=\"1702970008608\" duration=\"11000\" />\n      <workItem from=\"1702990394909\" duration=\"1547000\" />\n      <workItem from=\"1703009955432\" duration=\"639000\" />\n      <workItem from=\"1703055307005\" duration=\"85000\" />\n      <workItem from=\"1703055401376\" duration=\"1604000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"update\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1702926320089</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1702926320089</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"update\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1702928289642</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1702928289642</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"RECENT_FILTERS\">\n      <map>\n        <entry key=\"Paths\">\n          <value>\n            <list>\n              <RecentGroup>\n                <option name=\"FILTER_VALUES\">\n                  <option value=\"dir:/Users/kimdaeyeub/Documents/project/web-display\" />\n                </option>\n              </RecentGroup>\n            </list>\n          </value>\n        </entry>\n        <entry key=\"User\">\n          <value>\n            <list>\n              <RecentGroup>\n                <option name=\"FILTER_VALUES\">\n                  <option value=\"*\" />\n                </option>\n              </RecentGroup>\n            </list>\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"master\" />\n                      </list>\n                    </value>\n                  </entry>\n                  <entry key=\"date\">\n                    <value>\n                      <list>\n                        <option value=\"1702321407113\" />\n                        <option value=\"\" />\n                      </list>\n                    </value>\n                  </entry>\n                  <entry key=\"user\">\n                    <value>\n                      <list>\n                        <option value=\"*\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT\" value=\"false\" />\n    <option name=\"CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT\" value=\"true\" />\n    <MESSAGE value=\"update\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"update\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision a12473336694aa9d4414e33213fe2893f4062446)
++++ b/.idea/workspace.xml	(date 1703058414809)
+@@ -4,8 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="b20e9314-e048-429d-b461-f55c790afc51" name="변경" comment="update">
++    <list default="true" id="b20e9314-e048-429d-b461-f55c790afc51" name="변경" comment="브렌치 테스트 끝">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -30,6 +31,11 @@
+         <option name="argument" value="--tags" />
+         <option name="title" value="All" />
+       </GitPushTagMode>
++    </option>
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="develop" />
++      </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="ROOT_SYNC" value="SYNC" />
+@@ -79,7 +85,7 @@
+   "keyToString": {
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "develop",
++    "git-widget-placeholder": "master",
+     "js.linters.configure.manually.selectedeslint": "true",
+     "node.js.detected.package.eslint": "true",
+     "node.js.detected.package.standard": "true",
+@@ -92,7 +98,7 @@
+     "npm.dev.executor": "Run",
+     "prettierjs.PrettierConfiguration.Package": "/Users/kimdaeyeub/Documents/project/web-display/node_modules/prettier",
+     "run.code.analysis.last.selected.profile": "pProject Default",
+-    "settings.editor.selected.configurable": "preferences.pluginManager",
++    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+     "ts.external.directory.path": "/Users/kimdaeyeub/Documents/project/web-display/node_modules/typescript/lib",
+     "vue.rearranger.settings.migration": "true"
+   },
+@@ -164,6 +170,7 @@
+       <workItem from="1703009955432" duration="639000" />
+       <workItem from="1703055307005" duration="85000" />
+       <workItem from="1703055401376" duration="1604000" />
++      <workItem from="1703058111277" duration="303000" />
+     </task>
+     <task id="LOCAL-00001" summary="update">
+       <option name="closed" value="true" />
+@@ -181,7 +188,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1702928289642</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="브렌치 테스트 끝">
++      <option name="closed" value="true" />
++      <created>1703058204538</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1703058204538</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -255,6 +270,7 @@
+     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+     <MESSAGE value="update" />
+-    <option name="LAST_COMMIT_MESSAGE" value="update" />
++    <MESSAGE value="브렌치 테스트 끝" />
++    <option name="LAST_COMMIT_MESSAGE" value="브렌치 테스트 끝" />
+   </component>
+ </project>
+\ No newline at end of file
